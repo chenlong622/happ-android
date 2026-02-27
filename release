@@ -2,34 +2,34 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "3.12.0",
+  "data": "3.13.0",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ.apk",
-  "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
+  "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
   "filenum": 1162,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.12.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.12.0/Happ_beta.apk",
-      "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
+      "version": "3.13.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ_beta.apk",
+      "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.12.1",
-        "warnweek": "3.12.1",
-        "warnalways": "3.12.1",
+        "warnonce": "3.13.1",
+        "warnweek": "3.13.1",
+        "warnalways": "3.13.1",
         "updateonly": "2.1.0"
       }
     },
     "stable": {
-      "version": "3.12.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.12.0/Happ.apk",
-      "details": "-Improvements of hysteria protocol support and its general stability\n-Fixed an issue of an empty app list in per-app-proxy OFF mode\n-Minor improvements of wireguard servers manual input\n-Fixed multiple issues related to RTL support for Persian localization\n-Fixed an issue of snackbar overlapping with status bar",
+      "version": "3.13.0",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.13.0/Happ.apk",
+      "details": "-Feature: new warnings and error messages for during imports, url edits and logging\n-Feature: symbols to form QR code for sharing with TV are chosen more carefully\n-Feature: concurrent ping calls support\n-Feature: support of fallback url usage during errors\n-Fix: routing profile selection\n-Fix: socks server creation in manual input\n-Fix: minor UI issues with button states on TV and swipe buttons on server list\n-Fix: handled some cases of subscriptions' duplicating on import",
       "update": {
         "nowarn": "3.100.1",
-        "warnonce": "3.12.1",
-        "warnweek": "3.12.1",
-        "warnalways": "3.12.1",
+        "warnonce": "3.13.1",
+        "warnweek": "3.13.1",
+        "warnalways": "3.13.1",
         "updateonly": "2.1.0"
       }
     }
